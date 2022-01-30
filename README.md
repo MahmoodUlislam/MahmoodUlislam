@@ -24,7 +24,6 @@ An energetic and imaginative web developer along with the ability to work with o
 <img align="left" alt="SEO" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Seokaos_SEO.jpg" />
 <br/>
 
-
 ### Software skills:
 <img align="left" alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="Postman" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" />
