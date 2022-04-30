@@ -1,5 +1,5 @@
 ### Mahmood
-![A passionate full stack web and mobile application developer from Bangladesh](https://github.com/mahmood-islam/github-readme/blob/main/github-cover.jpg?raw=true)
+![A passionate full stack web and mobile application developer from Bangladesh](https://github.com/mahmood-islam/github-readme/blob/main/WhatsApp Image 2021-11-02 at 8.00.14 PM (17).jpeg?raw=true)
 #### A passionate full stack web and mobile application developer from Bangladesh
 
 An energetic and imaginative web developer along with the ability to work with other IT professionals in creating web & mobile applications of all standards. High awareness of industry issues and trends, particularly regarding accessibility, usability, emerging technologies, and open-source CMS. High educational background, with having language competence in English, Bangla, Hindi & Mandarin Chinese. Ambitious to provide massive energy that is needed to make a difference to any project. Looking for an appropriate position with an exciting company that wants to attract talented people.
