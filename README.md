@@ -11,6 +11,7 @@ An energetic and imaginative Full-stack developer along with the ability to work
 <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<br/>
 <img align="left" alt="react.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />
 <img align="left" alt="Redux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
 <img align="left" alt="Next.js" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
