@@ -1,6 +1,6 @@
 # Mahmood
 ![A passionate full stack web and mobile application developer from Bangladesh](https://github.com/mahmood-islam/github-readme/blob/main/github-cover1.jpeg?raw=true)
-#### A passionate full stack web and mobile application developer from Bangladesh
+#### A passionate full stack software application developer from Bangladesh
 
 An energetic and imaginative Full-stack developer along with the ability to work with other IT professionals in creating web & mobile applications of all standards. High awareness of industry issues and trends, particularly regarding accessibility, usability, emerging technologies, and open-source CMS. High educational background, with having language competence in English, Bangla, Hindi & Mandarin Chinese. Ambitious to provide massive energy that is needed to make a difference to any project. Looking for an appropriate position with an exciting company that wants to attract talented people.
 
@@ -10,10 +10,12 @@ An energetic and imaginative Full-stack developer along with the ability to work
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="react.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />
 <img align="left" alt="Redux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
 <img align="left" alt="Next.js" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
 <img align="left" alt="material UI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Cib-material-design_%28CoreUI_Icons_v1.0.0%29.svg" />
+<img align="left" alt="material UI" width="26px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
