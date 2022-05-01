@@ -17,7 +17,7 @@ An energetic and imaginative Full-stack developer along with the ability to work
 <img align="left" alt="material UI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Cib-material-design_%28CoreUI_Icons_v1.0.0%29.svg" />
 <img align="left" alt="material UI" width="26px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+<img align="left" alt="Express.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="firebase" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" />
 <img align="left" alt="docker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" />
