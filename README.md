@@ -25,7 +25,6 @@ An energetic and imaginative Full-stack developer along with the ability to work
 <img align="left" alt="docker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" />
 <img align="left" alt="kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
 <img align="left" alt="wordpress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" />
-<img align="left" alt="SEO" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Seokaos_SEO.jpg" />
 <br/>
 <br/>
 <br/>
