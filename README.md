@@ -2,7 +2,21 @@
 
 #### A passionate full stack software application developer from Bangladesh
 
-An energetic and imaginative Full-stack developer along with the ability to work with other IT professionals in creating web & mobile applications of all standards. High awareness of industry issues and trends, particularly regarding accessibility, usability, emerging technologies, and open-source CMS. High educational background, with having language competence in English, Bangla, Hindi & Mandarin Chinese. Ambitious to provide massive energy that is needed to make a difference to any project. Looking for an appropriate position with an exciting company that wants to attract talented people.
+#### Areas of expertise
+•JavaScript, TypeScript, React.js, Next.js 
+•Redux, Node.js, Express.js, Mongoose, Mongo-DB, Firebase 
+•REST API, GraphQL, Apollo-GraphQL •Sass, Bootstrap, Tailwind CSS, HTML and CSS
+•React-bootstrap, Material-UI, Ant-Design, NextUI •OAuth 2 + OIDC, Auth0, WordPress, Storyblok CMS 
+•Git, GitHub, GitLab
+•Docker, Search Engine Optimization, Adobe Analytics	
+
+#### Key competencies and skills
+•UI and UX design
+•Responsive design skills
+•Project management, Team management
+•Troubleshooting, Identifying technical solutions
+•Client-facing skills, Excellent problem-solving skills Analytical skills
+•Build process, Deployment, Logger implementation, Testing and debugging
 
 ### Languages, libraries and frameworks:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
