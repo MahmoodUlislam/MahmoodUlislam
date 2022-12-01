@@ -41,8 +41,6 @@ An energetic and imaginative Full-stack developer along with the ability to work
 
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/one thing learn.gif" width="1024" >
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoodUlislam)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoodulislam&show_icons=true)  
