@@ -55,7 +55,6 @@
 
 
 ## Examples of Work
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoodUlislam)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoodulislam&show_icons=true)  
 
