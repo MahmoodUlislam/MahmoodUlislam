@@ -1,23 +1,24 @@
 # Mahmood
 
-#### A passionate full stack software application developer from Bangladesh
+#### A passionate full-stack software application developer
 
 #### Areas of expertise
-•JavaScript, TypeScript, React.js, Next.js 
-•Redux, Node.js, Express.js, Mongoose, Mongo-DB, Firebase 
-•REST API, GraphQL, Apollo-GraphQL •Sass, Bootstrap, Tailwind CSS, HTML and CSS
-•React-bootstrap, Material-UI, Ant-Design, Tailwind CSS •OAuth 2 + OIDC, Auth0, WordPress, Storyblok CMS 
-•Git, GitHub, GitLab
+•JavaScript, TypeScript, React.js, React Native Next.js
+•Node.js, Express.js, Mongoose, Mongo-DB, Firebase 
+•REST API, GraphQL, Apollo-GraphQL
+•Sass, Bootstrap, Tailwind CSS, HTML and CSS
+•React-bootstrap, Material-UI, Ant-Design, Tailwind CSS 
+•OAuth 2 + OIDC, Auth0, WordPress, Storyblok CMS 
+•Git, GitHub, GitLab 
 •Docker, Search Engine Optimization
 
 #### Key competencies and skills
-•UI and UX design
-•Responsive design skills
-•Project management, Team management
-•Troubleshooting, Identifying technical solutions
-•Client-facing skills, Excellent problem-solving skills Analytical skills
-•Build process, Deployment, Logger implementation, Testing and debugging
-
+• Web and mobile APP development
+• Build process, Deployment, and Testing
+• Troubleshooting and identifying technical solutions
+• UI/UX design
+• Project, Team, and client management
+• Efficient problem-solving and analytical skills
 
 ### Languages, libraries and frameworks:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -38,8 +39,8 @@
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="firebase" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" />
 <img align="left" alt="docker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" />
-<img align="left" alt="kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
-<img align="left" alt="wordpress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
+<img align="left" alt="WordPress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Wordpress_logo_8.png" />
 <br/>
 <br/>
 <br/>
