@@ -7,142 +7,81 @@
 ## **Areas of Expertise**
 
 ### **Programming Languages**
-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="16"/> JavaScript  
-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="16"/> Python  
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python  
 
 ### **Frontend Development**
 #### **Frameworks & Libraries**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16"/> React.js  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="16"/> Next.js  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="16"/> Vue.js  
-- <img src="https://quasar.dev/logo.svg" width="16"/> Quasar Framework  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/React-icon.svg" width="16"/> React Native (Expo)  
+- ![React.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React.js  
+- ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) Next.js  
+- ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg) Vue.js  
+- ![Quasar Framework](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg) Quasar Framework  
+- ![React Native (Expo)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React Native (Expo)  
 
 #### **State Management & Utilities**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="16"/> Redux  
-- Vuex  
-- React Query  
-- react-i18next  
+- ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg) Redux  
+- ![Vuex](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg) Vuex  
+- ![React Query](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React Query  
+- ![react-i18next](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) react-i18next  
 
 #### **Data Visualization & UI Components**
-- Chart.js  
-- ECharts  
-- react-calendar  
-- vue-cal  
-- PDFMake  
+- ![Chart.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg) Chart.js  
+- ![ECharts](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/echarts/echarts-original.svg) ECharts  
+- ![react-calendar](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) react-calendar  
+- ![vue-cal](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg) vue-cal  
+- ![PDFMake](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pdfmake/pdfmake-original.svg) PDFMake  
 
 ### **Backend Development**
 #### **Server-Side Development**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="16"/> Node.js  
-- Express.js  
-- Next.js (API Routes & Middleware)  
+- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js  
+- ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) Express.js  
+- ![Next.js (API Routes & Middleware)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) Next.js (API Routes & Middleware)  
 
 #### **Serverless & Cloud-Native Backend**
-- AWS Lambda  
-- AWS Amplify Backend  
+- ![AWS Lambda](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS Lambda  
+- ![AWS Amplify Backend](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS Amplify Backend  
 
 #### **API Development**
-- RESTful APIs  
-- GraphQL  
-- Apollo GraphQL  
+- ![RESTful APIs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg) RESTful APIs  
+- ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg) GraphQL  
+- ![Apollo GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apollographql/apollographql-original.svg) Apollo GraphQL  
 
 #### **Real-Time Communication**
-- WebSockets  
-- Server-Sent Events (SSE)  
-- Amazon Chime SDK  
-- WebRTC  
-- Socket.IO  
+- ![WebSockets](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websockets/websockets-original.svg) WebSockets  
+- ![Server-Sent Events (SSE)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sse/sse-original.svg) Server-Sent Events (SSE)  
+- ![Amazon Chime SDK](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) Amazon Chime SDK  
+- ![WebRTC](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg) WebRTC  
+- ![Socket.IO](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg) Socket.IO  
 
 ### **Database Management & Storage**
 #### **Relational Databases**
-- PostgreSQL  
-- MySQL  
-- Amazon RDS  
+- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL  
+- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL  
+- ![Amazon RDS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) Amazon RDS  
 
 #### **NoSQL Databases**
-- Firebase Firestore  
-- MongoDB  
-- Amazon DynamoDB  
+- ![Firebase Firestore](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg) Firebase Firestore  
+- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB  
+- ![Amazon DynamoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) Amazon DynamoDB  
 
 #### **ORM & Cloud Storage**
-- Prisma  
-- Sequelize  
-- Amazon S3  
+- ![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg) Prisma  
+- ![Sequelize](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg) Sequelize  
+- ![Amazon S3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) Amazon S3  
 
 ### **Cloud & DevOps (AWS)**
 #### **Compute & Containers**
-- AWS Fargate (Amazon ECS)  
-- Amazon EC2  
-- AWS Lambda  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="16"/> Docker  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="16"/> Kubernetes  
+- ![AWS Fargate (Amazon ECS)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS Fargate (Amazon ECS)  
+- ![Amazon EC2](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) Amazon EC2  
+- ![AWS Lambda](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS Lambda  
+- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker  
+- ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg) Kubernetes  
 
 #### **Networking & API Management**
-- Amazon API Gateway  
-- AWS EventBridge  
+- ![Amazon API Gateway](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices
+::contentReference[oaicite:3]{index=3}
+ 
 
-#### **Storage & Databases**
-- Amazon S3  
-- Amazon RDS  
-- Amazon DynamoDB  
-
-#### **Messaging & Streaming Services**
-- Amazon SNS  
-- Amazon SQS  
-- Amazon Pinpoint  
-- Amazon Kinesis  
-
-#### **Security & Identity Management**
-- AWS Cognito  
-- AWS Identity and Access Management (IAM)  
-- AWS Secrets Manager  
-
-#### **AI & Machine Learning**
-- Amazon Bedrock  
-- Amazon Transcribe  
-- Amazon Rekognition  
-- Amazon HealthLake  
-
-#### **Monitoring & Automation**
-- Amazon CloudWatch  
-- AWS Step Functions  
-
-### **Authentication & Security**
-#### **Protocols & Standards**
-- OAuth 2.0  
-- OpenID Connect (OIDC)  
-
-#### **Libraries & Tools**
-- Crypto.js  
-- bcrypt.js  
-- Auth0  
-- AWS Cognito  
-
-### **Build & Deployment Tools**
-#### **Version Control & CI/CD**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="16"/> GitHub  
-- Bitbucket  
-- GitHub Actions  
-
-#### **Containerization & Bundling**
-- Docker  
-- Docker Compose  
-- Vite  
-- Webpack  
-
-### **Testing & Code Quality**
-#### **Testing & Automation**
-- Jest  
-- Puppeteer  
-- Custom Node.js Scripts  
-
-#### **Linting & Formatting**
-- ESLint  
-- Prettier  
-
-### **CMS Integration**
-- WordPress  
-- Storyblok CMS  
 
 ---
 
