@@ -3,14 +3,141 @@
 #### A passionate full-stack software application developer
 
 #### Areas of expertise
-•JavaScript, TypeScript, React.js, React Native Next.js
-•Node.js, Express.js, Mongoose, Mongo-DB, Firebase 
-•REST API, GraphQL, Apollo-GraphQL
-•Sass, Bootstrap, Tailwind CSS, HTML and CSS
-•React-bootstrap, Material-UI, Ant-Design, Tailwind CSS 
-•OAuth 2 + OIDC, Auth0, WordPress, Storyblok CMS 
-•Git, GitHub, GitLab 
-•Docker, Search Engine Optimization
+### **Programming Languages**
+- JavaScript  
+- Python  
+
+### **Frontend Development**
+#### **Frameworks & Libraries**
+- React.js  
+- Next.js  
+- Vue.js  
+- Quasar Framework  
+- React Native (Expo)  
+
+#### **State Management & Utilities**
+- Redux  
+- Vuex  
+- React Query  
+- react-i18next  
+
+#### **Data Visualization & UI Components**
+- Chart.js  
+- ECharts  
+- react-calendar  
+- vue-cal  
+- PDFMake  
+
+### **Backend Development**
+#### **Server-Side Development**
+- Node.js  
+- Express.js  
+- Next.js (API Routes & Middleware)  
+
+#### **Serverless & Cloud-Native Backend**
+- AWS Lambda  
+- AWS Amplify Backend  
+
+#### **API Development**
+- RESTful APIs  
+- GraphQL  
+- Apollo GraphQL  
+
+#### **Real-Time Communication**
+- WebSockets  
+- Server-Sent Events (SSE)  
+- Amazon Chime SDK  
+- WebRTC  
+- Socket.IO  
+
+### **Database Management & Storage**
+#### **Relational Databases**
+- PostgreSQL  
+- MySQL  
+- Amazon RDS  
+
+#### **NoSQL Databases**
+- Firebase Firestore  
+- MongoDB  
+- Amazon DynamoDB  
+
+#### **ORM & Cloud Storage**
+- Prisma  
+- Sequelize  
+- Amazon S3  
+
+### **Cloud & DevOps (AWS)**
+#### **Compute & Containers**
+- AWS Fargate (Amazon ECS)  
+- Amazon EC2  
+- AWS Lambda  
+
+#### **Networking & API Management**
+- Amazon API Gateway  
+- AWS EventBridge  
+
+#### **Storage & Databases**
+- Amazon S3  
+- Amazon RDS  
+- Amazon DynamoDB  
+
+#### **Messaging & Streaming Services**
+- Amazon SNS  
+- Amazon SQS  
+- Amazon Pinpoint  
+- Amazon Kinesis  
+
+#### **Security & Identity Management**
+- AWS Cognito  
+- AWS Identity and Access Management (IAM)  
+- AWS Secrets Manager  
+
+#### **AI & Machine Learning**
+- Amazon Bedrock  
+- Amazon Transcribe  
+- Amazon Rekognition  
+- Amazon HealthLake  
+
+#### **Monitoring & Automation**
+- Amazon CloudWatch  
+- AWS Step Functions  
+
+### **Authentication & Security**
+#### **Protocols & Standards**
+- OAuth 2.0  
+- OpenID Connect (OIDC)  
+
+#### **Libraries & Tools**
+- Crypto.js  
+- bcrypt.js  
+- Auth0  
+- AWS Cognito  
+
+### **Build & Deployment Tools**
+#### **Version Control & CI/CD**
+- GitHub  
+- Bitbucket  
+- GitHub Actions  
+
+#### **Containerization & Bundling**
+- Docker  
+- Docker Compose  
+- Vite  
+- Webpack  
+
+### **Testing & Code Quality**
+#### **Testing & Automation**
+- Jest  
+- Puppeteer  
+- Custom Node.js Scripts  
+
+#### **Linting & Formatting**
+- ESLint  
+- Prettier  
+
+### **CMS Integration**
+- WordPress  
+- Storyblok CMS
 
 #### Key competencies and skills
 • Web and mobile APP development
