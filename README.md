@@ -67,41 +67,66 @@
 #### **ORM & Cloud Storage**
 - Prisma  
 - Sequelize  
-- Amazon S3  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> Amazon S3  
 
 ### **Cloud & DevOps (AWS)**
 #### **Compute & Containers**
 - AWS Fargate (Amazon ECS)  
-- Amazon EC2  
-- AWS Lambda  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> Amazon EC2  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> AWS Lambda  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" height="24"/> Docker  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="24" height="24"/> Kubernetes  
 
----
+#### **Networking & API Management**
+- Amazon API Gateway  
+- AWS EventBridge  
 
-## **Key Competencies and Skills**
-- Web and mobile app development  
-- Build process, deployment, and testing  
-- Troubleshooting and identifying technical solutions  
-- UI/UX design  
-- Project, team, and client management  
-- Efficient problem-solving and analytical skills  
+#### **Storage & Databases**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> Amazon S3  
+- Amazon RDS  
+- Amazon DynamoDB  
 
----
+#### **Messaging & Streaming Services**
+- Amazon SNS  
+- Amazon SQS  
+- Amazon Pinpoint  
+- Amazon Kinesis  
 
-## **Software & Development Tools**
-#### **IDEs & Development Tools**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="24" height="24"/> Visual Studio Code  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="24" height="24"/> Postman  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="24" height="24"/> Figma  
-- Adobe Photoshop  
-- Adobe XD  
+#### **Security & Identity Management**
+- AWS Cognito  
+- AWS Identity and Access Management (IAM)  
+- AWS Secrets Manager  
 
----
+#### **AI & Machine Learning**
+- Amazon Bedrock  
+- Amazon Transcribe  
+- Amazon Rekognition  
+- Amazon HealthLake  
 
-## **Examples of Work**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoodulislam&show_icons=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam)  
-![GitHub Metrics](https://metrics.lecoq.io/MahmoodUlislam)  
+#### **Monitoring & Automation**
+- Amazon CloudWatch  
+- AWS Step Functions  
 
-[GitHub](https://github.com/Mahmoodulislam) | [Dev.to](https://dev.to/mahmoodulislam)
+### **Authentication & Security**
+#### **Protocols & Standards**
+- OAuth 2.0  
+- OpenID Connect (OIDC)  
+
+#### **Libraries & Tools**
+- Crypto.js  
+- bcrypt.js  
+- Auth0  
+- AWS Cognito  
+
+### **Build & Deployment Tools**
+#### **Version Control & CI/CD**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" height="24"/> GitHub  
+- Bitbucket  
+- GitHub Actions  
+
+#### **Containerization & Bundling**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" height="24"/> Docker  
+- Docker Compose  
+- Vite  
+- Webpack
+::contentReference[oaicite:3]{index=3}
