@@ -7,19 +7,19 @@
 ## **Areas of Expertise**
 
 ### **Programming Languages**
-- ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) JavaScript  
-- ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) Python  
+- <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="16"/> JavaScript  
+- <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="16"/> Python  
 
 ### **Frontend Development**
 #### **Frameworks & Libraries**
-- ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React.js  
-- ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg) Next.js  
-- ![Vue.js](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg) Vue.js  
-- ![Quasar](https://quasar.dev/logo.svg) Quasar Framework  
-- ![React Native](https://upload.wikimedia.org/wikipedia/commons/7/7e/React-icon.svg) React Native (Expo)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16"/> React.js  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="16"/> Next.js  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="16"/> Vue.js  
+- <img src="https://quasar.dev/logo.svg" width="16"/> Quasar Framework  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/React-icon.svg" width="16"/> React Native (Expo)  
 
 #### **State Management & Utilities**
-- ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png) Redux  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="16"/> Redux  
 - Vuex  
 - React Query  
 - react-i18next  
@@ -33,7 +33,7 @@
 
 ### **Backend Development**
 #### **Server-Side Development**
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) Node.js  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="16"/> Node.js  
 - Express.js  
 - Next.js (API Routes & Middleware)  
 
@@ -74,8 +74,8 @@
 - AWS Fargate (Amazon ECS)  
 - Amazon EC2  
 - AWS Lambda  
-- ![Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png) Docker  
-- ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg) Kubernetes  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="16"/> Docker  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="16"/> Kubernetes  
 
 #### **Networking & API Management**
 - Amazon API Gateway  
@@ -120,7 +120,7 @@
 
 ### **Build & Deployment Tools**
 #### **Version Control & CI/CD**
-- ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg) GitHub  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="16"/> GitHub  
 - Bitbucket  
 - GitHub Actions  
 
@@ -158,9 +158,9 @@
 
 ## **Software & Development Tools**
 #### **IDEs & Development Tools**
-- ![VS Code](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) Visual Studio Code  
-- ![Postman](https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png) Postman  
-- ![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) Figma  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="16"/> Visual Studio Code  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="16"/> Postman  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="16"/> Figma  
 - Adobe Photoshop  
 - Adobe XD  
 
