@@ -1,6 +1,6 @@
 # Mahmood
 
-#### A passionate full-stack software application developer
+#### A passionate software engineer | Cloud & AI Architect
 
 ---
 
