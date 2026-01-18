@@ -248,17 +248,13 @@
 
 <div align="center">
 
-<!-- Stats Card -->
-<a href="https://github.com/MahmoodUlislam">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
+<!-- Stats Card - Using anuraghazra's direct vercel -->
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 <br><br>
 
-<!-- Streak Stats -->
-<a href="https://github.com/MahmoodUlislam">
-  <img src="https://streak-stats.demolab.com?user=MahmoodUlislam&theme=radical" alt="GitHub Streak" />
-</a>
+<!-- Streak Stats - Using herokuapp instead of demolab -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br><br>
 
@@ -268,7 +264,7 @@
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=github-dark&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 
 </div>
 
