@@ -249,16 +249,22 @@
 <div align="center">
 
 <!-- Stats Card -->
-![MahmoodUlislam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoodUlislam&theme=radical)
+<br><br>
+
+<!-- Streak Stats - THIS ONE WORKS -->
+<img src="https://streak-stats.demolab.com/?user=MahmoodUlislam&theme=radical" alt="GitHub Streak" />
+
+<br><br>
 
 <!-- Contribution Heatmap - GREEN -->
 <img src="https://ghchart.rshah.org/22C55E/MahmoodUlislam" alt="GitHub Contribution Chart" width="100%" />
 
+<br><br>
+
 <!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 
 </div>
 
