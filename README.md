@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoodUlislam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmood.islam@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=5%2B+Years+of+Software+Development;Cloud+%26+AI+Architecture;Healthcare+Technology+Specialist;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+AI-Powered+Healthcare+Platforms;Architecting+HIPAA-Compliant+Cloud+Solutions;Shipping+Production+ML+Pipelines;From+Idea+to+Deployed+Product" alt="Typing SVG" />
 
 </div>
 
@@ -17,15 +17,25 @@
 
 ## 🚀 About Me
 
-> Software Engineer with **5+ years** of experience building scalable healthcare applications and AI-powered solutions. Currently leading development of virtual mental health and AI dermatology platforms at **Virtual Health Hub**, architecting end-to-end cloud infrastructure on AWS with a focus on **HIPAA compliance**, **real-time communication**, and **machine learning integration**.
+> I build **AI-powered healthcare platforms** that serve real patients in production. Currently leading development of **LifeLine** (virtual mental health) and **SkinScan** (AI dermatology) at Virtual Health Hub — from system architecture to deployed product.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### 💡 What I Bring to the Table
 
-- 🔭 Currently working on **LifeLine** & **SkinScan** at Virtual Health Hub
-- 🧠 Specializing in **AI/ML Integration** & **Computer Vision**
-- ☁️ Expert in **AWS Cloud Architecture**
-- 🏥 Building **HIPAA-compliant** healthcare solutions
-- 📍 Based in **Saskatoon, Saskatchewan, Canada**
+- 🏗️ **End-to-end ownership** — Architecture, development, deployment, and maintenance
+- 🤖 **Production ML systems** — Multi-agent AI, computer vision pipelines, real-time inference
+- ☁️ **AWS expertise** — 20+ services in production (Bedrock, SageMaker, ECS, Chime SDK, etc.)
+- 📱 **Cross-platform development** — Web, mobile (React Native), and native iOS (Swift)
+- 🏥 **Healthcare domain knowledge** — HIPAA compliance, medical imaging, clinical workflows
+
+### 📈 Impact Highlights
+
+| Metric | Achievement |
+|--------|-------------|
+| 🚀 **Products Shipped** | 2 AI healthcare platforms in production |
+| 🧠 **AI Agents Built** | Multi-agent system (chatbot, summarization, risk analytics) |
+| 📸 **CV Pipeline** | 3-stage wound analysis (Rekognition → SageMaker → Segmentation) |
+| 🎥 **Real-time Features** | Video conferencing with ambient AI listening |
+| 📍 **Users Served** | Rural Saskatchewan healthcare communities |
 
 ---
 
@@ -192,40 +202,27 @@
 
 ---
 
-## 💼 Experience
-
-<table>
-  <tr>
-    <td>🏥</td>
-    <td><strong>Senior Software Developer | Cloud & AI Specialist</strong></td>
-    <td>Virtual Health Hub</td>
-    <td>Mar 2025 – Present</td>
-  </tr>
-  <tr>
-    <td>🏥</td>
-    <td><strong>Software Developer</strong></td>
-    <td>Virtual Health Hub</td>
-    <td>Aug 2024 – Feb 2025</td>
-  </tr>
-  <tr>
-    <td>👶</td>
-    <td><strong>Software Engineer</strong></td>
-    <td>Saaska Software Inc. (esiKidz)</td>
-    <td>Apr 2023 – Jun 2024</td>
-  </tr>
-  <tr>
-    <td>📱</td>
-    <td><strong>Software Engineer</strong></td>
-    <td>SELISE Digital Platforms</td>
-    <td>Jun 2022 – Aug 2022</td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td><strong>Web Developer</strong></td>
-    <td>Quantic Dynamics Ltd.</td>
-    <td>Feb 2019 – May 2022</td>
-  </tr>
-</table>
+## 🗺️ Career Journey
+```
+2025 ─────────────────────────────────────────────────────────────────────────────
+     │
+     ├── 🚀 Senior Software Developer | Cloud & AI Specialist @ Virtual Health Hub
+     │       Leading LifeLine & SkinScan development
+     │
+2024 ├── 💼 Software Developer @ Virtual Health Hub
+     │       Started building AI healthcare platforms
+     │
+     ├── 👶 Software Engineer @ Saaska Software Inc.
+     │       esiKidz childcare management platform
+     │
+2022 ├── 📱 Software Engineer @ SELISE Digital Platforms
+     │       Sunrise-club event booking (Switzerland Telco)
+     │
+2019 ├── 💻 Web Developer @ Quantic Dynamics Ltd.
+     │       Full-stack web development foundation
+     │
+─────┴────────────────────────────────────────────────────────────────────────────
+```
 
 ---
 
