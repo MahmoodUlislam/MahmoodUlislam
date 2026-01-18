@@ -1,131 +1,293 @@
-# Mahmood
+<div align="center">
+  
+# 👋 Hi, I'm Mahmood Ul Islam
 
-#### A passionate software engineer | Cloud & AI Architect
+### Software Engineer | Cloud & AI Specialist
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfolio-mahmoodulislam.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoodislam)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoodUlislam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmood.islam@gmail.com)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=5%2B+Years+of+Software+Development;Cloud+%26+AI+Architecture;Healthcare+Technology+Specialist;Full+Stack+Developer" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## **Areas of Expertise**
+## 🚀 About Me
 
-### **Programming Languages**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" height="24"/> JavaScript  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24"/> Python  
+> Software Engineer with **5+ years** of experience building scalable healthcare applications and AI-powered solutions. Currently leading development of virtual mental health and AI dermatology platforms at **Virtual Health Hub**, architecting end-to-end cloud infrastructure on AWS with a focus on **HIPAA compliance**, **real-time communication**, and **machine learning integration**.
 
-### **Frontend Development**
-#### **Frameworks & Libraries**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" height="24"/> React.js  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24" height="24"/> Next.js  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="24" height="24"/> Vue.js  
-- <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="24" height="24"/> Quasar Framework  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" height="24"/> React Native (Expo)  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-#### **State Management & Utilities**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="24" height="24"/> Redux  
-- Vuex  
-- React Query  
-- react-i18next  
+- 🔭 Currently working on **LifeLine** & **SkinScan** at Virtual Health Hub
+- 🧠 Specializing in **AI/ML Integration** & **Computer Vision**
+- ☁️ Expert in **AWS Cloud Architecture**
+- 🏥 Building **HIPAA-compliant** healthcare solutions
+- 📍 Based in **Saskatoon, Saskatchewan, Canada**
 
-#### **Data Visualization & UI Components**
-- <img src="https://www.chartjs.org/media/logo-title.svg" width="24" height="24"/> Chart.js  
-- <img src="https://echarts.apache.org/zh/images/echarts-logo2.svg" width="24" height="24"/> ECharts  
-- react-calendar  
-- vue-cal  
-- PDFMake  
+---
 
-### **Backend Development**
-#### **Server-Side Development**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24" height="24"/> Node.js  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="24" height="24"/> Express.js  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24" height="24"/> Next.js (API Routes & Middleware)  
+## 🛠️ Tech Stack
 
-#### **Serverless & Cloud-Native Backend**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> AWS Lambda  
-- AWS Amplify Backend  
+### 💻 Programming Languages
 
-#### **API Development**
-- RESTful APIs  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="24" height="24"/> GraphQL  
-- Apollo GraphQL  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
-#### **Real-Time Communication**
-- WebSockets  
-- Server-Sent Events (SSE)  
-- Amazon Chime SDK  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/WebRTC_Logo.svg" width="24" height="24"/> WebRTC  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="24" height="24"/> Socket.IO  
+### 🎨 Frontend Development
 
-### **Database Management & Storage**
-#### **Relational Databases**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="24" height="24"/> PostgreSQL  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24" height="24"/> MySQL  
-- Amazon RDS  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-#### **NoSQL Databases**
-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="24" height="24"/> Firebase Firestore  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="24" height="24"/> MongoDB  
-- Amazon DynamoDB  
+### ⚙️ Backend Development
 
-#### **ORM & Cloud Storage**
-- Prisma  
-- Sequelize  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> Amazon S3  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
-### **Cloud & DevOps (AWS)**
-#### **Compute & Containers**
-- AWS Fargate (Amazon ECS)  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> Amazon EC2  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> AWS Lambda  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" height="24"/> Docker  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="24" height="24"/> Kubernetes  
+### 🗄️ Databases & Storage
 
-#### **Networking & API Management**
-- Amazon API Gateway  
-- AWS EventBridge  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
+</p>
 
-#### **Storage & Databases**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/> Amazon S3  
-- Amazon RDS  
-- Amazon DynamoDB  
+### ☁️ AWS Cloud Services
 
-#### **Messaging & Streaming Services**
-- Amazon SNS  
-- Amazon SQS  
-- Amazon Pinpoint  
-- Amazon Kinesis  
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=aws-fargate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white" />
+</p>
 
-#### **Security & Identity Management**
-- AWS Cognito  
-- AWS Identity and Access Management (IAM)  
-- AWS Secrets Manager  
+### 🤖 AI & Machine Learning
 
-#### **AI & Machine Learning**
-- Amazon Bedrock  
-- Amazon Transcribe  
-- Amazon Rekognition  
-- Amazon HealthLake  
+<p>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Rekognition-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Transcribe-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Polly-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Comprehend-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-#### **Monitoring & Automation**
-- Amazon CloudWatch  
-- AWS Step Functions  
+### 🔐 Authentication & Security
 
-### **Authentication & Security**
-#### **Protocols & Standards**
-- OAuth 2.0  
-- OpenID Connect (OIDC)  
+<p>
+  <img src="https://img.shields.io/badge/AWS_Cognito-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+</p>
 
-#### **Libraries & Tools**
-- Crypto.js  
-- bcrypt.js  
-- Auth0  
-- AWS Cognito  
+### 🛠️ DevOps & Tools
 
-### **Build & Deployment Tools**
-#### **Version Control & CI/CD**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" height="24"/> GitHub  
-- Bitbucket  
-- GitHub Actions  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+</p>
 
-#### **Containerization & Bundling**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" height="24"/> Docker  
-- Docker Compose  
-- Vite  
-- Webpack
+---
+
+## 🏆 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 LifeLine</h3>
+      <p align="center">
+        <a href="https://lifelineapp.ca/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge" />
+        </a>
+        <a href="https://virtualhealthhub.ca/" target="_blank">
+          <img src="https://img.shields.io/badge/🏥_VHH-00A86B?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>Virtual Mental Health Treatment Platform</strong></p>
+      <p>
+        ✅ Multi-agent AI system (Bedrock)<br>
+        ✅ Real-time video conferencing (Chime SDK)<br>
+        ✅ Voice-enabled AI chatbot (Polly + Transcribe)<br>
+        ✅ Ambient listening & session summaries<br>
+        ✅ Custom React Native modules (Swift/Kotlin)<br>
+        ✅ HIPAA-compliant VPC architecture
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔬 SkinScan</h3>
+      <p align="center">
+        <a href="https://skinscanapp.ca/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Live_Site-4285F4?style=for-the-badge" />
+        </a>
+        <a href="https://virtualhealthhub.ca/" target="_blank">
+          <img src="https://img.shields.io/badge/🏥_VHH-00A86B?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>AI Dermatology Imaging Platform</strong></p>
+      <p>
+        ✅ 3-stage CV pipeline (Rekognition → SageMaker)<br>
+        ✅ Custom wound segmentation with RLE masks<br>
+        ✅ AR-guided iOS capture (Swift)<br>
+        ✅ AprilTag calibration for measurements<br>
+        ✅ Bedrock agents for clinical recommendations<br>
+        ✅ Real-time SSE streaming
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td>🏥</td>
+    <td><strong>Senior Software Developer | Cloud & AI Specialist</strong></td>
+    <td>Virtual Health Hub</td>
+    <td>Mar 2025 – Present</td>
+  </tr>
+  <tr>
+    <td>🏥</td>
+    <td><strong>Software Developer</strong></td>
+    <td>Virtual Health Hub</td>
+    <td>Aug 2024 – Feb 2025</td>
+  </tr>
+  <tr>
+    <td>👶</td>
+    <td><strong>Software Engineer</strong></td>
+    <td>Saaska Software Inc. (esiKidz)</td>
+    <td>Apr 2023 – Jun 2024</td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td><strong>Software Engineer</strong></td>
+    <td>SELISE Digital Platforms</td>
+    <td>Jun 2022 – Aug 2022</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><strong>Web Developer</strong></td>
+    <td>Quantic Dynamics Ltd.</td>
+    <td>Feb 2019 – May 2022</td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>📜</td>
+    <td><strong>Applied Certificate in Website Design and Development</strong></td>
+    <td>Saskatchewan Polytechnic</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Bachelor of Science in Textile Engineering</strong></td>
+    <td>Ahsanullah University of Science & Technology<br><em>(WES Canadian Equivalency)</em></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodUlislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🏅 Profile Badges
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoodUlislam&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MahmoodUlislam?style=for-the-badge&color=blue" alt="Followers" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+| 📧 Email | 📱 Phone | 📍 Location |
+|:--------:|:--------:|:-----------:|
+| mahmood.islam@gmail.com | +1-306-261-8482 | Saskatoon, SK, Canada |
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoodislam)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
