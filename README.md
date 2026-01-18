@@ -253,17 +253,13 @@
 
 <br><br>
 
-<!-- Streak Stats - Using multiple fallback options -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</picture>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br><br>
 
-<!-- Profile Summary / Heatmap Style -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoodUlislam&theme=tokyonight" alt="Profile Details" />
+<!-- Contribution Heatmap Style -->
+<img src="https://ghchart.rshah.org/2E9EF7/MahmoodUlislam" alt="GitHub Contribution Chart" width="100%" />
 
 <br><br>
 
