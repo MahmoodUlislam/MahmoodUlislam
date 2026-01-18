@@ -244,17 +244,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodUlislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117)
+<br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- Profile Summary with Commit Heatmap Style -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoodUlislam&theme=tokyonight" alt="Profile Details" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 
 </div>
 
