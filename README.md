@@ -4,12 +4,12 @@
 
 ### Software Engineer | Cloud & AI Specialist
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfolio-mahmoodulislam.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoodislam)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoodUlislam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmood.islam@gmail.com)
+<a href="https://portfolio-mahmoodulislam.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/mahmoodislam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/MahmoodUlislam" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:mahmood.islam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+AI-Powered+Healthcare+Platforms;Architecting+HIPAA-Compliant+Cloud+Solutions;Shipping+Production+ML+Pipelines;From+Idea+to+Deployed+Product" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Healthcare+Platforms;Architecting+HIPAA-Compliant+Solutions;Shipping+Production+ML+Pipelines;From+Idea+to+Deployed+Product" alt="Typing SVG" />
 
 </div>
 
@@ -246,16 +246,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodUlislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
-</div>
+  
+<a href="https://github.com/MahmoodUlislam" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<a href="https://github.com/MahmoodUlislam" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodUlislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</a>
 
-<div align="center">
+<a href="https://github.com/MahmoodUlislam" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/MahmoodUlislam" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</a>
+
 </div>
 
 ---
@@ -279,7 +286,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoodislam)
+<a href="https://www.linkedin.com/in/mahmoodislam" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
