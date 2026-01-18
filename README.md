@@ -248,23 +248,17 @@
 
 <div align="center">
 
-<!-- Stats Card - Using anuraghazra's direct vercel -->
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<!-- Stats Card -->
+![MahmoodUlislam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=radical)
 
-<br><br>
-
-<!-- Streak Stats - Using herokuapp instead of demolab -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<br><br>
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoodUlislam&theme=radical)
 
 <!-- Contribution Heatmap - GREEN -->
 <img src="https://ghchart.rshah.org/22C55E/MahmoodUlislam" alt="GitHub Contribution Chart" width="100%" />
 
-<br><br>
-
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night)
 
 </div>
 
