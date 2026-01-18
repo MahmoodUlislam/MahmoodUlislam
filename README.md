@@ -249,22 +249,26 @@
 <div align="center">
 
 <!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/MahmoodUlislam">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodUlislam&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
 
 <br><br>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoodUlislam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<a href="https://github.com/MahmoodUlislam">
+  <img src="https://streak-stats.demolab.com?user=MahmoodUlislam&theme=radical" alt="GitHub Streak" />
+</a>
 
 <br><br>
 
-<!-- Contribution Heatmap Style -->
-<img src="https://ghchart.rshah.org/2E9EF7/MahmoodUlislam" alt="GitHub Contribution Chart" width="100%" />
+<!-- Contribution Heatmap - GREEN -->
+<img src="https://ghchart.rshah.org/22C55E/MahmoodUlislam" alt="GitHub Contribution Chart" width="100%" />
 
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodUlislam&theme=github-dark&hide_border=true" alt="Activity Graph" />
 
 </div>
 
