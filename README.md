@@ -247,7 +247,7 @@
 ## 🏅 Certifications
 
 <a href="https://www.credly.com/badges/0e1a5b1c-f08c-483a-bf10-23ccdba8a23b/public_url">
-  <img src="./public/aws-certified-machine-learning-engineer-associate.png" alt="AWS Certified Machine Learning Engineer – Associate" width="150" />
+  <img src="https://portfolio-mahmoodulislam.vercel.app/aws-certified-machine-learning-engineer-associate.png" alt="AWS Certified Machine Learning Engineer – Associate" width="150" />
 </a>
 
 **AWS Certified Machine Learning Engineer – Associate**
