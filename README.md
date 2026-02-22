@@ -244,6 +244,26 @@
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/0e1a5b1c-f08c-483a-bf10-23ccdba8a23b/public_url">
+    <img src="public/aws-certified-machine-learning-engineer-associate.png" alt="AWS Certified Machine Learning Engineer – Associate" width="150" />
+  </a>
+  <br><br>
+  <strong>AWS Certified Machine Learning Engineer – Associate</strong>
+  <br>
+  Amazon Web Services (AWS)
+  <br>
+  Validation Number: <code>778b21fc058d42a39b13860d3b4afec8</code>
+  <br><br>
+  <a href="https://www.credly.com/badges/0e1a5b1c-f08c-483a-bf10-23ccdba8a23b/public_url">
+    <img src="https://img.shields.io/badge/Verify_on_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
