@@ -252,7 +252,7 @@
 
 **AWS Certified Machine Learning Engineer – Associate**
 <br>
-Amazon Web Services (AWS)
+https://aws.amazon.com/verification
 <br>
 Validation Number: `778b21fc058d42a39b13860d3b4afec8`
 
